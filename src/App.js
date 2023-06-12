@@ -7,7 +7,9 @@ import RowPost from './Components/RowPost/RowPost'
 function App() {
   return (
     <div className="App">
-      
+        <NavBar/>
+        <Banner/>
+        <RowPost/>
     </div>
   );
 }
